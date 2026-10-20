@@ -1,0 +1,9 @@
+### Jupyter Notebooks ###
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+# IPython default profile
+profile_default/
+# IPython configuration
+ipython_config.py
+.virtual_documents/
